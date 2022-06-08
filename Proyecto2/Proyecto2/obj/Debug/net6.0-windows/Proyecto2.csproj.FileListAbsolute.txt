@@ -1,0 +1,17 @@
+D:\VisualStudio\Proyecto2\Proyecto2\bin\Debug\net6.0-windows\Proyecto2.exe
+D:\VisualStudio\Proyecto2\Proyecto2\bin\Debug\net6.0-windows\Proyecto2.deps.json
+D:\VisualStudio\Proyecto2\Proyecto2\bin\Debug\net6.0-windows\Proyecto2.runtimeconfig.json
+D:\VisualStudio\Proyecto2\Proyecto2\bin\Debug\net6.0-windows\Proyecto2.dll
+D:\VisualStudio\Proyecto2\Proyecto2\bin\Debug\net6.0-windows\Proyecto2.pdb
+D:\VisualStudio\Proyecto2\Proyecto2\obj\Debug\net6.0-windows\Proyecto2.csproj.AssemblyReference.cache
+D:\VisualStudio\Proyecto2\Proyecto2\obj\Debug\net6.0-windows\Proyecto2.Form1.resources
+D:\VisualStudio\Proyecto2\Proyecto2\obj\Debug\net6.0-windows\Proyecto2.csproj.GenerateResource.cache
+D:\VisualStudio\Proyecto2\Proyecto2\obj\Debug\net6.0-windows\Proyecto2.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio\Proyecto2\Proyecto2\obj\Debug\net6.0-windows\Proyecto2.AssemblyInfoInputs.cache
+D:\VisualStudio\Proyecto2\Proyecto2\obj\Debug\net6.0-windows\Proyecto2.AssemblyInfo.cs
+D:\VisualStudio\Proyecto2\Proyecto2\obj\Debug\net6.0-windows\Proyecto2.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Proyecto2\Proyecto2\obj\Debug\net6.0-windows\Proyecto2.dll
+D:\VisualStudio\Proyecto2\Proyecto2\obj\Debug\net6.0-windows\refint\Proyecto2.dll
+D:\VisualStudio\Proyecto2\Proyecto2\obj\Debug\net6.0-windows\Proyecto2.pdb
+D:\VisualStudio\Proyecto2\Proyecto2\obj\Debug\net6.0-windows\Proyecto2.genruntimeconfig.cache
+D:\VisualStudio\Proyecto2\Proyecto2\obj\Debug\net6.0-windows\ref\Proyecto2.dll
